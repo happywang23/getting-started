@@ -93,6 +93,16 @@ Get the student license from https://www.jetbrains.com/student/.
 
 Follow the getting started instructions from https://www.jetbrains.com/help/clion/2016.1/quick-start-guide.html
 
-# Step 3 - Watch the following videos
+# Step 3 - Set up SSH access to github. 
 
-   - https://www.jetbrains.com/clion/documentation/
+	Follow the instructions provided here
+	
+	https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+# Step 4 - Review the following materials
+
+   - See this quick tour video at https://www.jetbrains.com/clion/documentation/
+   - Read https://www.jetbrains.com/help/clion/2016.2/quick-start-guide.html. 
+   *Note* - As you read the quick start guide, you will realize that clion uses cmake (https://cmake.org/cmake-tutorial/) for describing the compilation and linking procedures. However, in this class, we will provide you the cmake files. You will only need to edit them using the Clion GUI as shown in the quick start guide.
+
+   
