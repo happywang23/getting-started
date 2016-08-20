@@ -103,6 +103,7 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
 
    - See this quick tour video at https://www.jetbrains.com/clion/documentation/
    - Read https://www.jetbrains.com/help/clion/2016.2/quick-start-guide.html. 
-   *Note* - As you read the quick start guide, you will realize that clion uses cmake (https://cmake.org/cmake-tutorial/) for describing the compilation and linking procedures. However, in this class, we will provide you the cmake files. You will only need to edit them using the Clion GUI as shown in the quick start guide.
+   
+**Note** - As you read the quick start guide, you will realize that clion uses cmake (https://cmake.org/cmake-tutorial/) for describing the compilation and linking procedures. However, in this class, we will provide you the cmake files. You will only need to edit them using the Clion GUI as shown in the quick start guide.
 
    
