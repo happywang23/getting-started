@@ -21,7 +21,7 @@ To do so simply call
 Clone the course-info git repository. Change the directory to the folder vagrant_vm
 
     git clone https://github.com/CS3281-2016/getting-started.git
-    cd vagrant_vm 
+    
     
 if you do not have git on the host machine you can download the repository as a zip from here
   
