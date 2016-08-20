@@ -95,7 +95,7 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
 
 # Step 3 - Set up SSH access to github. 
 
-	Follow the instructions provided here
+ Follow the instructions provided here
 	
 	https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
