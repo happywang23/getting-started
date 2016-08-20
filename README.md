@@ -109,5 +109,5 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
 
 # Step 5 - Set up the class examples repository in clion.
 
-	- Follow the instructions shown in this video https://youtu.be/V76maDEsl-8
-	- The examples repostiory is available here: https://github.com/CS3281-2016/examples. 
+	- Follow the instructions shown in this video [https://youtu.be/V76maDEsl-8][https://youtu.be/V76maDEsl-8]
+	- The examples repostiory is available here: [https://github.com/CS3281-2016/examples][https://github.com/CS3281-2016/examples]. 
