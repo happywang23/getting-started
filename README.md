@@ -1,5 +1,8 @@
-# Steps to get the Development Environment up and running.
+# Step 1 Provide your github details (only if you are an enrolled student in the class).
 
+https://docs.google.com/forms/d/e/1FAIpQLSdjMcmFLJ4nSdZ-xv-zUuD8jdBrFM618Kkd983eih9p7qNzLg/viewform?c=0&w=1
+
+# Step 2 - Set up the development environment
 
 ## VirtualBox
 
