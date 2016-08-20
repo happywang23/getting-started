@@ -93,3 +93,6 @@ Get the student license from https://www.jetbrains.com/student/.
 
 Follow the getting started instructions from https://www.jetbrains.com/help/clion/2016.1/quick-start-guide.html
 
+# Step 3 - Watch the following videos
+
+   - https://www.jetbrains.com/clion/documentation/
