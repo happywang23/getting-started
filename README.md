@@ -1,5 +1,8 @@
-# Steps to get the Development Environment up and running.
+# Step 1 Provide your github details (only if you are an enrolled student in the class).
 
+https://docs.google.com/forms/d/e/1FAIpQLSdjMcmFLJ4nSdZ-xv-zUuD8jdBrFM618Kkd983eih9p7qNzLg/viewform?c=0&w=1
+
+# Step 2 - Set up the development environment
 
 ## VirtualBox
 
@@ -18,10 +21,10 @@ To do so simply call
 	
 ### Download the repo and launch!
 
-Clone the course-info git repository. Change the directory to the folder vagrant_vm
+Clone the getting started git repository. 
 
     git clone https://github.com/CS3281-2016/getting-started.git
-    cd vagrant_vm 
+    
     
 if you do not have git on the host machine you can download the repository as a zip from here
   
@@ -90,3 +93,21 @@ Get the student license from https://www.jetbrains.com/student/.
 
 Follow the getting started instructions from https://www.jetbrains.com/help/clion/2016.1/quick-start-guide.html
 
+# Step 3 - Set up SSH access to github. 
+
+ Follow the instructions provided here
+	
+	https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+# Step 4 - Review the following materials
+
+   - See this quick tour video at https://www.jetbrains.com/clion/documentation/
+   - Read https://www.jetbrains.com/help/clion/2016.2/quick-start-guide.html. 
+   - Watch the video https://www.youtube.com/watch?v=wUZyoAnPdCY for understanding how to debug with clion
+   
+**Note** - As you read the quick start guide, you will realize that clion uses cmake (https://cmake.org/cmake-tutorial/) for describing the compilation and linking procedures. However, in this class, we will provide you the cmake files. You will only need to edit them using the Clion GUI as shown in the quick start guide.
+
+# Step 5 - Set up the class examples repository in clion.
+
+- Follow the instructions shown in this video [https://youtu.be/V76maDEsl-8](https://youtu.be/V76maDEsl-8)
+- The examples repostiory is available here: [https://github.com/CS3281-2016/examples](https://github.com/CS3281-2016/examples).
