@@ -2,7 +2,9 @@
 
 https://docs.google.com/forms/d/e/1FAIpQLSdjMcmFLJ4nSdZ-xv-zUuD8jdBrFM618Kkd983eih9p7qNzLg/viewform?c=0&w=1
 
-# Step 2 - Set up the development environment
+# Step 2 Read the [syllabus](syllabus.md)
+
+# Step 3 - Set up the development environment
 
 ## VirtualBox
 
