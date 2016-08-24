@@ -39,6 +39,9 @@ Open a shell in the directory containing the `Vagrantfile` and run
 This will take a while when you run it for the first time.
 Vagrant will download the base box, launch the virtual machine and install the software mentioned above.
 
+
+**Note** - Please check that there were no errors during this step. Any errors might lead to the case where you wont find clion in the vm. If such an error happens, you try running ``vagrant reload``
+
 ### Login and finish installation
 
 When the software installation is complete, log into the VM (user and password are "vagrant").
