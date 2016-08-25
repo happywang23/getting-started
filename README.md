@@ -4,7 +4,7 @@ https://goo.gl/forms/wUWy5IvfHVprr6vW2
 
 # Step 2 Read the [syllabus](syllabus.md)
 
-# Step 3 - Set up the development environment
+# Step 3 - Set up the development environment - Option 1 (Preferred)
 
 ## VirtualBox
 
@@ -64,9 +64,17 @@ Get the student license from https://www.jetbrains.com/student/.
 
 Follow the getting started instructions from https://www.jetbrains.com/help/clion/2016.1/quick-start-guide.html
 
+# Alternate Instructions - Option 2 (Only if the above steps did not work for you)
 
+- Install latest virtuabox
+- Install the extension package
+- Download the appliance http://scope.isis.vanderbilt.edu/files/cs281_vbox.ova
+- Then, you can double click on the downloaded ova file and it should self import.
+             - Please choose the option that initializes all network addresses. 
+             - Also, you can adjust the number of CPUs and memory while importing (this will depend upon the capacity of  your machine).
+- Set up Clion as described in Option 1
 
-# Alternate Instructions (Only if the above steps did not work for you)
+# Alternate Instructions  - Option 3 (Only if the above steps did not work for you)
 
 If the vagrant approach does not work for you, create a new xubuntu vm manually on your machine. 
 
