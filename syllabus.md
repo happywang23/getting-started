@@ -13,11 +13,6 @@ Abhishek Dubey
 Daniel Balasubramanian
 `daniel@isis.vanderbilt.edu` (Section 02)
 
-### Office Hours 
-
- - (FG 226)  TBD
- - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
-
 ## Teaching Assistants
 - Subhav Pradhan 
 - Nicholas Lewis
@@ -25,8 +20,6 @@ Daniel Balasubramanian
 - Garrett Hoffman
 
 ### Office Hours 
-
- - (FG 226)  
 
 | Time    | where    | Person  |
 | ------------- |:-------------:| :-------------:|
@@ -36,6 +29,8 @@ Daniel Balasubramanian
 | Wednesdays 4PM - 5PM | FGH 226 | Garrett Hoffman    |
 | Thursdays 2:30 PM- 3:30 PM  | FGH 226  | Daniel Balasubramanian      |
 | Fridays 10 AM -11:30 AM  | FGH 226  | Subhav Pradhan    |
+
+ - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
 
 
 ## Course Description
