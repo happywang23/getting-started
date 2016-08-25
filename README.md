@@ -1,6 +1,6 @@
 # Step 1 Provide your github details (only if you are an enrolled student in the class).
 
-https://docs.google.com/forms/d/e/1FAIpQLSdjMcmFLJ4nSdZ-xv-zUuD8jdBrFM618Kkd983eih9p7qNzLg/viewform?c=0&w=1
+https://goo.gl/forms/wUWy5IvfHVprr6vW2
 
 # Step 2 Read the [syllabus](syllabus.md)
 
