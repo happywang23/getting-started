@@ -1,6 +1,6 @@
 #CS 281: Principles of Operating Systems I
   
- **01:10 PM - 02:25 PM TR, FGH 132 (Fall 2016)**
+ **01:10 PM - 02:25 PM TR, FGH 132 (Section-01)/FGH 129 (Section-02) (Fall 2016)**
 
  **Credit Hours:** 3
 
