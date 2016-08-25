@@ -64,7 +64,7 @@ Get the student license from https://www.jetbrains.com/student/.
 
 Follow the getting started instructions from https://www.jetbrains.com/help/clion/2016.1/quick-start-guide.html
 
-# Alternate Instructions - Option 2 (Only if the above steps did not work for you)
+# Alternate Instructions for Step 3- Option 2 (Only if the above steps did not work for you)
 
 - Install latest virtuabox
 - Install the extension package
@@ -74,7 +74,7 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
              - Also, you can adjust the number of CPUs and memory while importing (this will depend upon the capacity of  your machine).
 - Set up Clion as described in Option 1
 
-# Alternate Instructions  - Option 3 (Only if the above steps did not work for you)
+# Alternate Instructions for Step 3 - Option 3 (Only if the above steps did not work for you)
 
 If the vagrant approach does not work for you, create a new xubuntu vm manually on your machine. 
 
@@ -124,3 +124,4 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
 
 - Follow the instructions shown in this video [https://youtu.be/V76maDEsl-8](https://youtu.be/V76maDEsl-8)
 - The examples repostiory is available here: [https://github.com/CS3281-2016/examples](https://github.com/CS3281-2016/examples).
+- The lecture notes are located at https://github.com/CS3281-2016/lectures
