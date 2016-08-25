@@ -1,4 +1,5 @@
 # Compiled Object files
+.vagrant
 *.slo
 *.lo
 *.o
