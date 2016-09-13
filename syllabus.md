@@ -25,9 +25,9 @@ Daniel Balasubramanian
 | ------------- |:-------------:| :-------------:|
 | Mondays 2PM -3:30 PM | FGH 226     | Benjamin Stadnick| 
 | Tuesdays 9AM-10:30 AM |  FGH 226      | Nicholas Lewis     |
-| Tuesdays 2:30 PM- 3:30 PM |  FGH 226  | Abhishek Dubey    |
+| Tuesdays 2:30 PM- 3:30 PM |  FGH 226  | Daniel Balasubramanian    |
 | Wednesdays 4PM - 5PM | FGH 226 | Garrett Hoffman    |
-| Thursdays 2:30 PM- 3:30 PM  | FGH 226  | Daniel Balasubramanian      |
+| Thursdays 2:30 PM- 3:30 PM  | FGH 226  |  Abhishek Dubey     |
 | Fridays 10 AM -11:30 AM  | FGH 226  | Subhav Pradhan    |
 
  - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
