@@ -105,11 +105,11 @@ In general, we will attempt to achieve the following composition:
 | Category        | Percentage  |
 | ------------- |:-------------:| 
 | Reading assignments       | 10% | 
-| In-class quizzes      | 30%      |
-| Home assignments  | 30%    |
+| In-class quizzes      | 30% |
+| Home assignments  | 40%    |
 |  Final Project  | 20%      |
-|  Final Quiz  | 10%      |
 
+There is an optional final quiz which will take place at the time allotted for the final exam. Your grade on this optional final quiz can be used to replace your lowest in-class quiz grade.
 
 ### Letter Grade Distribution
 
