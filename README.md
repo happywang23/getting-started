@@ -68,7 +68,7 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
 
 - Install latest virtuabox
 - Install the extension package
-- Download the appliance http://scope.isis.vanderbilt.edu/files/cs281_vbox.ova
+- Download the appliance http://scope.isis.vanderbilt.edu/old/files/cs281_vbox.ova
 - Then, you can double click on the downloaded ova file and it should self import.
              - Please choose the option that initializes all network addresses. 
              - Also, you can adjust the number of CPUs and memory while importing (this will depend upon the capacity of  your machine).
