@@ -1,8 +1,14 @@
-#CS 281: Principles of Operating Systems I (Spring 2017)
+# CS 281: Principles of Operating Systems I (Spring 2017) 1/9/17-4/24/17
   
-**Section 01 -  TR	01:10p - 02:25p	Engineering & Science Building 044	1/9/17-4/24/17	Dubey, Abhishek** 
+## Section 01 
 
-**Section 02 -  TR	02:35p - 03:50p	Featheringill Hall 211	1/9/17-4/24/17	Balasubramanian, Daniel A.**
+TR	01:10p - 02:25p	Engineering & Science Building 044	
+
+	
+
+## Section 02 
+
+TR	02:35p - 03:50p	Featheringill Hall 211	
 
 **Credit Hours:** 3
 
