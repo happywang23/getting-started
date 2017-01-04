@@ -85,7 +85,7 @@ Follow the getting started instructions from https://www.jetbrains.com/help/clio
 # Step 4 - Review the following materials
 
    - See this quick tour video at https://www.jetbrains.com/clion/documentation/
-   - Read https://www.jetbrains.com/help/clion/2016.2/quick-start-guide.html. 
+   - Read https://www.jetbrains.com/help/clion/2016.3/quick-start-guide.html 
    - Watch the video https://www.youtube.com/watch?v=wUZyoAnPdCY for understanding how to debug with clion
    
 **Note** - As you read the quick start guide, you will realize that clion uses cmake (https://cmake.org/cmake-tutorial/) for describing the compilation and linking procedures. We will review the Cmake principles in the class.
