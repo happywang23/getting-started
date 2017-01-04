@@ -10,7 +10,7 @@ In the class we use a virtual environment to set up a linux machine that we use 
 
 ## VirtualBox
 
-- Download and install the latest from Oracle VirtualBox from https://www.virtualbox.org/
+- Download and install the latest from Oracle VirtualBox from https://www.virtualbox.org/. It is very important to get the latest version.
 - Install the virtual box extension package
 
 ### Vagrant
