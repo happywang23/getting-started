@@ -63,7 +63,7 @@ use github for managing the assignments and course examples. Piazza will
 be used as the discussion forum. Course content will be disseminated via
 Oak.
 
-**Please refer to https://github.com/CS3281-2016/getting-started for setting up the necessary development environment.**
+**Please refer to https://github.com/CS3281-vu/getting-started for setting up the necessary development environment.**
 
 ## Text(s)
 
@@ -191,7 +191,7 @@ order specified.
 -   Optional topics if time permits: security policies, distributed
     systems and a comparison with other operating systems.
 
- **More Information about the course schedule and link to lecture materials is available at https://github.com/CS3281-2016/lectures/blob/master/README.md**
+ **More Information about the course schedule and link to lecture materials is available at https://github.com/CS3281-vu/lectures/blob/master/README.md**
 
 
 ## Important Links
@@ -199,5 +199,5 @@ order specified.
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - https://piazza.com/class/is4z9ktkjli2l0
 - We will be posting videos describing some common setup procedures at this youtube channel https://www.youtube.com/channel/UCdoteyzXbVSd3bJSc-u-AjA
-- https://github.com/CS3281-2016/ 
+- https://github.com/CS3281-vu/ 
      - you can access it once we add you to the github organization of CS3281-2016 - for this we need your github id. Please submit it at https://goo.gl/forms/YAgKjz8V6RmQcO2f2
