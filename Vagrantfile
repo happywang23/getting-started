@@ -12,21 +12,19 @@ Vagrant.configure(2) do |config|
 
   # Every Vagrant development environment requires a box. You can search for
   # boxes at https://atlas.hashicorp.com/search.
-  # This is the 64bit version of the Ubuntu VM
-  #config.vm.box = "ubuntu/trusty64"
-  #config.vm.box = "adabits/xubuntu14.04-64"
-  config.vm.box = "arnemertz/Xubuntu16.04"
-
   
+  
+  config.vm.box = "dabhishe/xubuntu_min"
 
-  # Give a Name to this Vagrant Box rather than keeping it "default"
-  # This will be reflected when one does "vagrant status"
-  config.vm.define :cs281_vbox do |t|
-  end
+  # The time in seconds that Vagrant will wait for the machine to boot and be accessible. By default this is 300 seconds
+  #config.vm.boot_timeout = 300
+  # set the host name value
+  config.vm.hostname = "cs281spring2017devbox"
+ 
   # Disable automatic box update checking. If you disable this, then
   # boxes will only be checked for updates when the user runs
   # `vagrant box outdated`. This is not recommended.
-  # config.vm.box_check_update = false
+  config.vm.box_check_update = false
 
   # Create a forwarded port mapping which allows access to a specific port
   # within the machine from a port on the host machine. In the example below,
@@ -40,13 +38,19 @@ Vagrant.configure(2) do |config|
   # Create a public network, which generally matched to bridged network.
   # Bridged networks make the machine appear as another physical device on
   # your network.
-  # config.vm.network "public_network"
+  #config.vm.network "public_network"
+  
+  #If more than one network interface is available on the host machine, Vagrant will ask you to choose which interface the virtual machine should bridge to. A default interface can be specified by 
+  #adding a :bridge clause to the network definition.
+  # config.vm.network "public_network", bridge: "en1: Wi-Fi (AirPort)"
 
   # Share an additional folder to the guest VM. The first argument is
   # the path on the host to the actual folder. The second argument is
   # the path on the guest to mount the folder. And the optional third
   # argument is a set of non-required options.
-  # config.vm.synced_folder "../data", "/vagrant_data"
+  #config.vm.synced_folder "data", "/vagrant_data"
+  
+  # By default, Vagrant will share your project directory (the directory with the Vagrantfile) to /vagrant.
 
   # Provider-specific configuration so you can fine-tune various
   # backing providers for Vagrant. These expose provider-specific options.
@@ -54,34 +58,15 @@ Vagrant.configure(2) do |config|
   #
   config.vm.provider "virtualbox" do |vb|
   	# DIsplay the name of the virtualbox 
-  	vb.name = "cs281_vbox"
-  #   # Display the VirtualBox GUI when booting the machine
+  	vb.name = "cs281spring2017devbox"
     vb.gui = true
-  #   # Customize the amount of memory on the VM:
     vb.customize ["modifyvm", :id, "--memory", "2048"]
-  #  # Customize the amount of cpu cores to be specified for this VM
-    vb.customize ["modifyvm", :id, "--cpus", "1"]   
+    vb.customize ["modifyvm", :id, "--cpus", "2"]   
     vb.customize ["modifyvm", :id, "--accelerate3d", "off"]
 	vb.customize ['modifyvm', :id, '--clipboard', 'bidirectional']
   end
-  #
-  # View the documentation for the provider you are using for more
-  # information on available options.
-
-  # Define a Vagrant Push strategy for pushing to Atlas. Other push strategies
-  # such as FTP and Heroku are also available. See the documentation at
-  # https://docs.vagrantup.com/v2/push/atlas.html for more information.
-  # config.push.define "atlas" do |push|
-  #   push.app = "YOUR_ATLAS_USERNAME/YOUR_APPLICATION_NAME"
-  # end
-
+  
   # Enable provisioning with a shell script. Additional provisioners such as
-  # Puppet, Chef, Ansible, Salt, and Docker are also available. Please see the
-  # documentation for more information about their specific syntax and use.
-  # config.vm.provision "shell", inline: <<-SHELL
-  #   sudo apt-get update
-  #   sudo apt-get install -y apache2
-  # SHELL
   # This will call the bootstrap.sh file after the virtual machine boots.
-  	config.vm.provision "shell", :path => "bootstrap.sh"
+  config.vm.provision "shell", :path => "bootstrap.sh"
 end
