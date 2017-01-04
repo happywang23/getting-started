@@ -38,6 +38,19 @@ Open a shell in the directory containing the `Vagrantfile` and run
 This will take a while when you run it for the first time.
 Vagrant will download the base box, launch the virtual machine and install all the software required for the class.
 
+**Note** Change the following entries in the Vagrantfile based on your situtation. These settings set up the memory and CPU properties of the new virtual machine. Try to setup atleast 2048 MB i.e. 2 GB for memory. More is better. If you have at least 4 cores then you can setup atleast 2 CPU. Please increase the number if you have more cores available.
+
+```
+  config.vm.provider "virtualbox" do |vb|
+  	# DIsplay the name of the virtualbox 
+  	vb.name = "cs281spring2017devbox"
+    vb.gui = true
+    vb.customize ["modifyvm", :id, "--memory", "2048"]
+    vb.customize ["modifyvm", :id, "--cpus", "2"]   
+    vb.customize ["modifyvm", :id, "--accelerate3d", "off"]
+	vb.customize ['modifyvm', :id, '--clipboard', 'bidirectional']
+  end
+  ```
 
 **Note** - Please check that there were no errors during this step. Any errors might lead to the case where you will not find clion in the vm. If such an error happens, you try running ``vagrant reload``
 
@@ -49,13 +62,13 @@ When the software installation is complete, log into the VM (user and password a
 
 Inside the VM, open a terminal and run 
 
-    /opt/clion-2016.2.1/bin/clion.sh
+    /home/vagrant/clion-2016.3.2/bin/clion.sh
 	
 It wil start the actual installation wizard for CLion. 
 
 If you want to set up desktop shortcut for clion - please see the instructions available here
 
-https://www.jetbrains.com/help/clion/2016.1/installation-and-launching.html#desktop_shortcut
+https://www.jetbrains.com/help/clion/2016.3/installation-and-launching.html#desktop_shortcut
 
 #### Clion License
 
