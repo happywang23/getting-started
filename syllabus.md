@@ -1,17 +1,24 @@
-#CS 281: Principles of Operating Systems I
+#CS 281: Principles of Operating Systems I (Spring 2017)
   
- **01:10 PM - 02:25 PM TR, FGH 132 (Section-01)/FGH 129 (Section-02) (Fall 2016)**
+**Section 01 -  TR	01:10p - 02:25p	Engineering & Science Building 044	1/9/17-4/24/17	Dubey, Abhishek** 
+**Section 02 -  TR	02:35p - 03:50p	Featheringill Hall 211	1/9/17-4/24/17	Balasubramanian, Daniel A.**
 
- **Credit Hours:** 3
+**Credit Hours:** 3
 
 ## Instructors
  
-Abhishek Dubey
-`abhishek.dubey@vanderbilt.edu` (Section 01)
+Abhishek Dubey `abhishek.dubey@vanderbilt.edu` (Section 01)
 
+Daniel Balasubramanian `daniel@isis.vanderbilt.edu` (Section 02)
 
-Daniel Balasubramanian
-`daniel@isis.vanderbilt.edu` (Section 02)
+## Preferred Contact Method: 
+
+We receive large volumes of e-mail, both legitimate and spam.
+There is a possibility that your email to us about this class may get
+lost in this clutter. In order to lessen this possibility, please use
+the piazza.
+
+https://piazza.com/class/ixj2zxpkv9obz
 
 ## Teaching Assistants
 - Subhav Pradhan 
@@ -23,12 +30,8 @@ Daniel Balasubramanian
 
 | Time    | where    | Person  |
 | ------------- |:-------------:| :-------------:|
-| Mondays 2PM -3:30 PM | FGH 226     | Benjamin Stadnick| 
-| Tuesdays 9AM-10:30 AM |  FGH 226      | Nicholas Lewis     |
 | Tuesdays 2:30 PM- 3:30 PM |  FGH 226  | Daniel Balasubramanian    |
-| Wednesdays 4PM - 5PM | FGH 226 | Garrett Hoffman    |
-| Thursdays 2:30 PM- 3:30 PM  | FGH 226  |  Abhishek Dubey     |
-| Fridays 10 AM -11:30 AM  | FGH 226  | Subhav Pradhan    |
+| Thursdays 2:40 PM- 3:40 PM  | FGH 226  |  Abhishek Dubey     |
 
  - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
 
@@ -132,16 +135,6 @@ There is an optional final quiz which will take place at the time allotted for t
 | <= 59.99   |  F  |
 
 
-
-## Email
-
-We receive large volumes of e-mail, both legitimate and spam.
-There is a possibility that your email to us about this class may get
-lost in this clutter. In order to lessen this possibility, please use
-the piazza.
-
-
-
 ## Disability Statement
 
 Vanderbilt is committed to equal opportunity
@@ -204,7 +197,6 @@ order specified.
 
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - https://piazza.com/class/is4z9ktkjli2l0
-- https://gradescope.com/courses/3742
 - We will be posting videos describing some common setup procedures at this youtube channel https://www.youtube.com/channel/UCdoteyzXbVSd3bJSc-u-AjA
 - https://github.com/CS3281-2016/ 
-     - you can access it once we add you to the github organization of CS3281-2016 - for this we need your github id. Please submit it at https://docs.google.com/forms/d/e/1FAIpQLSdjMcmFLJ4nSdZ-xv-zUuD8jdBrFM618Kkd983eih9p7qNzLg/viewform?c=0&w=1
+     - you can access it once we add you to the github organization of CS3281-2016 - for this we need your github id. Please submit it at https://goo.gl/forms/YAgKjz8V6RmQcO2f2
