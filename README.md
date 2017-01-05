@@ -4,6 +4,8 @@ https://goo.gl/forms/6IpIuTsaqTeKRrRu1
 
 ## Step 2 Read the [syllabus](syllabus.md)
 
+
+
 ## Step 3 - Set up the development environment 
 
 In the class we use a virtual environment to set up a linux machine that we use for programming assignments and examples. The virtual environment is created using virtual box.  You can read more about virtual box here: https://www.virtualbox.org/manual/ch01.html.
@@ -53,6 +55,8 @@ Vagrant will download the base box, launch the virtual machine and install all t
   ```
 
 **Note** - Please check that there were no errors during this step. Any errors might lead to the case where you will not find clion in the vm. If such an error happens, you try running ``vagrant reload``
+
+**Note** If you get errors that say that virtualization is not enabled in your PC, you might have to enable it in BIOS. This depends on your specific computer and will require you to do a search on google. For some computers the following instruction might work: https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/5/html/Virtualization/sect-Virtualization-Troubleshooting-Enabling_Intel_VT_and_AMD_V_virtualization_hardware_extensions_in_BIOS.html
 
 ### Login and finish installation
 
