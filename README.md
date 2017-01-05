@@ -1,14 +1,14 @@
-# Step 1 Provide your github details (only if you are an enrolled student in the class).
+## Step 1 Provide your github details and vanderbilt email id, your vu login name (only if you are an enrolled student in the class).
 
-https://goo.gl/forms/YAgKjz8V6RmQcO2f2
+https://goo.gl/forms/6IpIuTsaqTeKRrRu1
 
-# Step 2 Read the [syllabus](syllabus.md)
+## Step 2 Read the [syllabus](syllabus.md)
 
-# Step 3 - Set up the development environment 
+## Step 3 - Set up the development environment 
 
 In the class we use a virtual environment to set up a linux machine that we use for programming assignments and examples. The virtual environment is created using virtual box.  You can read more about virtual box here: https://www.virtualbox.org/manual/ch01.html.
 
-## VirtualBox
+### VirtualBox
 
 - Download and install the latest from Oracle VirtualBox from https://www.virtualbox.org/. It is very important to get the latest version.
 - Install the virtual box extension package
