@@ -4,8 +4,6 @@
 
 TR	01:10p - 02:25p	Engineering & Science Building 044	
 
-	
-
 ## Section 02 
 
 TR	02:35p - 03:50p	Featheringill Hall 211	
@@ -28,17 +26,13 @@ the piazza.
 https://piazza.com/class/ixj2zxpkv9obz
 
 ## Teaching Assistants
-- Subhav Pradhan 
 - Nicholas Lewis
-- Benjamin Stadnick
+- Rounak Salim
 - Garrett Hoffman
 
 ### Office Hours 
 
-| Time    | where    | Person  |
-| ------------- |:-------------:| :-------------:|
-| Tuesdays 2:30 PM- 3:30 PM |  FGH 226  | Daniel Balasubramanian    |
-| Thursdays 2:40 PM- 3:40 PM  | FGH 226  |  Abhishek Dubey     |
+to be finalized
 
  - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
 
@@ -197,13 +191,14 @@ order specified.
 -   Optional topics if time permits: security policies, distributed
     systems and a comparison with other operating systems.
 
- **More Information about the course schedule and link to lecture materials is available at https://github.com/CS3281-vu/lectures/blob/master/README.md**
+ **More Information about the course schedule and link to lecture materials is available at https://github.com/CS3281-vu/lectures/blob/master/README.md** 
+
+you will get access to the lecture material when you provide us your github id as stated in step 1 at https://github.com/CS3281-vu/getting-started
 
 
 ## Important Links
 
 - http://pages.cs.wisc.edu/~remzi/OSTEP/
 - https://piazza.com/class/is4z9ktkjli2l0
-- We will be posting videos describing some common setup procedures at this youtube channel https://www.youtube.com/channel/UCdoteyzXbVSd3bJSc-u-AjA
 - https://github.com/CS3281-vu/ 
-     - you can access it once we add you to the github organization of CS3281-2016 - for this we need your github id. Please submit it at https://goo.gl/forms/YAgKjz8V6RmQcO2f2
+     - you can access it once we add you to the github organization of CS3281-2016 - for this we need your github id. Please submit it at https://goo.gl/forms/6IpIuTsaqTeKRrRu1
