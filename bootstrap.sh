@@ -45,7 +45,9 @@ generate_localkeys () {
 
 }
 
-
+firefox_func () {
+   sudo apt-get install firefox -y
+}
 
 
 vim_func
@@ -56,6 +58,8 @@ g++_func
 echo "installed g++"
 git_svn_func
 echo "installed git and svn"
+firefox_func
+echo "installed firefox"
 cmake_func
 echo "installed cmake"
 boost_func
