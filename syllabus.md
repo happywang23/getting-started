@@ -29,6 +29,8 @@ https://piazza.com/class/ixj2zxpkv9obz
 - Nicholas Lewis
 - Rounak Salim
 - Garrett Hoffman
+- Shreya Shanker
+- Anna Hwang
 
 ### Office Hours 
 
