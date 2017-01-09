@@ -102,10 +102,12 @@ short reading quizzes that will be due based on reading assignments.
 
 ## Course Policies
 
-Submissions will be due by midnight on the day
-mentioned in the assignment and homework description. Late submissions
-will be penalized with an automatic **20 percent penalty per day** (applied relative to the graded score for the submission). **No
-collaborations unless explicitly permitted**. 
+### Late Submissions
+
+Submissions will be due by midnight on the day mentioned in the assignment and homework description. Late submissions
+will be penalized with an automatic **20 percent penalty per day** (applied relative to the graded score for the submission). 
+
+**No collaborations unless explicitly permitted**. 
 
 The Vanderbilt Honor Code
 will govern work done. ANY VIOLATIONS WILL RESULT in the case to be
@@ -114,13 +116,17 @@ sources for your assignments. However, you must not copy the code and
 must provide citation of the source of inspiration if do refer to the
 online sites. All work will be submitted via github.
 
-### Programming Assignments Programming assignments will be tested
+### Programming Assignments 
+
+Programming assignments will be tested
 using Ubuntu and are expected to be developed and run in that
 environment. We will provide you instructions for setting up your
 environment. Any submission that does not compile will be penalized **50%**.
 
 
-### Evaluation: The following grading criteria are tentative and are
+### Evaluation
+
+The following grading criteria are tentative and are
 subject to change. Each graded item in this course will be assigned a
 certain number of points. Your final grade will be computed as the total
 number of points you achieved divided by the number of points possible.
