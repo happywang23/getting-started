@@ -31,12 +31,32 @@ https://piazza.com/class/ixj2zxpkv9obz
 - Garrett Hoffman
 - Shreya Shanker
 - Anna Hwang
+- Christopher Acker
 
-### Office Hours 
+## Office Hours  (FGH 226)
 
-to be finalized
+| Day | Time    | where    | Person  |
+| ------------- |:-------------:| :-------------:|:-------------:|
+| Mondays  | TBD| FGH 226     | TBD| 
+| Tuesdays  |  TBD| FGH 226      | TBD   |
+| Tuesdays  |  TBD| FGH 226  | TBD    |
+| Wednesdays  |  TBD|FGH 226 | TBD    |
+| Thursdays   |  TBD|FGH 226  | TBD      |
+| Fridays   | TBD| FGH 226  | TBD    |
+
 
  - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
+ 
+## Important Links
+
+| What | Link    | 
+| ------------- |:-------------:| 
+| Textbook  | http://pages.cs.wisc.edu/~remzi/OSTEP/ | 
+| Discussion Forum/ Question and Answers  |  https://piazza.com/class/is4z9ktkjli2l0 | 
+| Lectures and course schedule |  https://github.com/CS3281-vu/lectures |
+| Quiz   |  https://gradescope.com/courses/5766 |
+| Assignment and Project Annoucements   | https://www.vanderbilt.edu/blackboard/ | 
+| Reading Assignments |  https://www.vanderbilt.edu/blackboard/ |
 
 
 ## Course Description
@@ -198,9 +218,4 @@ order specified.
 you will get access to the lecture material when you provide us your github id as stated in step 1 at https://github.com/CS3281-vu/getting-started
 
 
-## Important Links
 
-- http://pages.cs.wisc.edu/~remzi/OSTEP/
-- https://piazza.com/class/is4z9ktkjli2l0
-- https://github.com/CS3281-vu/ 
-     - you can access it once we add you to the github organization of CS3281-2016 - for this we need your github id. Please submit it at https://goo.gl/forms/6IpIuTsaqTeKRrRu1
