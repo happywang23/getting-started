@@ -53,10 +53,12 @@ https://piazza.com/class/ixj2zxpkv9obz
 | ------------- |:-------------:| 
 | Textbook  | http://pages.cs.wisc.edu/~remzi/OSTEP/ | 
 | Discussion Forum/ Question and Answers  |  https://piazza.com/class/is4z9ktkjli2l0 | 
-| Lectures and course schedule |  https://github.com/CS3281-vu/lectures |
-| Quiz   |  https://gradescope.com/courses/5766 |
+| Lectures, course notes and schedule |  https://github.com/CS3281-vu/lectures |
+| Graded Quizzes   |  https://gradescope.com/courses/5766 |
 | Assignment and Project Annoucements   | https://www.vanderbilt.edu/blackboard/ | 
 | Reading Assignments |  https://www.vanderbilt.edu/blackboard/ |
+| Assignment submissions |  https://github.com/CS3281-vu |
+
 
 
 ## Course Description
