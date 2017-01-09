@@ -63,7 +63,10 @@ Vagrant.configure(2) do |config|
     vb.customize ["modifyvm", :id, "--memory", "2048"]
     vb.customize ["modifyvm", :id, "--cpus", "2"]   
     vb.customize ["modifyvm", :id, "--accelerate3d", "off"]
-	vb.customize ['modifyvm', :id, '--clipboard', 'bidirectional']
+    vb.customize ['modifyvm', :id, '--clipboard', 'bidirectional']
+    vb.customize ["modifyvm", :id, "--usb", "off"]
+    vb.customize ["modifyvm", :id, "--usbehci", "off"]
+
   end
   
   # Enable provisioning with a shell script. Additional provisioners such as
