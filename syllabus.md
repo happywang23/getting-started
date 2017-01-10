@@ -35,17 +35,25 @@ https://piazza.com/class/ixj2zxpkv9obz
 
 ## Office Hours  (FGH 226)
 
+### TA Hours
+
 | Day | Time    | where    | Person  |
 | ------------- |:-------------:| :-------------:|:-------------:|
-| Mondays  | TBD| FGH 226     | TBD| 
-| Tuesdays  |  TBD| FGH 226      | TBD   |
-| Tuesdays  |  TBD| FGH 226  | TBD    |
-| Wednesdays  |  TBD|FGH 226 | TBD    |
-| Thursdays   |  TBD|FGH 226  | TBD      |
-| Fridays   | TBD| FGH 226  | TBD    |
+| Mondays  | 3 PM - 4 PM | FGH 226     | Christopher Acker| 
+| Tuesdays  |  4 PM -5 PM | FGH 226      | Garrett  Hoffman   |
+| Wednesday  |  1 PM -2 PM | FGH 226  | Nicholas Lewis    |
+| Wednesdays  |  4 PM- 5 PM|FGH 226 | Shreya shanker    |
+| Thursday   |   4 PM- 5 PM|FGH 226  | Rounak Salim      |
+| Fridays   | 3 PM-4 PM| FGH 226  | Anna Hwang    |
 
 
- - By appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
+## Instructor Office Hours
+| Day | Time    | where    | Person  |
+| ------------- |:-------------:| :-------------:|:-------------:|
+| Tuesdays  |  2:45 PM - 3:45 PM | FGH 226      | Abhishek Dubey |
+| Thursdays  | TBD| FGH 226      | Daniel Balasubramanian |
+
+**Note** - Instructors are also available by appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
  
 ## Important Links
 
