@@ -101,3 +101,8 @@ However, in this class, we will provide you the cmake files. You will only need 
 - Follow the instructions shown in this video [https://youtu.be/V76maDEsl-8](https://youtu.be/V76maDEsl-8)
 - The examples repostiory is available here: [https://github.com/CS3281-2016/examples](https://github.com/CS3281-2016/examples).
 - The lecture notes are located at https://github.com/CS3281-2016/lectures
+
+# Step 6 - Watch Repositories
+
+You should add the lectures, getting_started and examples repository to your watch list once you have been added to the organization. Review the documentation about watching repositories at https://help.github.com/articles/watching-repositories/. Once the watch is configured you will get notifications when we push any update to the lectures or the examples repository.
+
