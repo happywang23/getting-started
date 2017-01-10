@@ -139,8 +139,8 @@ In general, we will attempt to achieve the following composition:
 | Category        | Percentage  |
 | ------------- |:-------------:| 
 | Reading assignments       | 10% | 
-| In-class quizzes      | 30% |
-| Home assignments  | 40%    |
+| Quizzes      | 30% |
+|  Programming assignments and homeworks  | 40%    |
 |  Final Project  | 20%      |
 
 There is an optional final quiz which will take place at the time allotted for the final exam. Your grade on this optional final quiz can be used to replace your lowest in-class quiz grade.
