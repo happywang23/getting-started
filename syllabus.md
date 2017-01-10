@@ -21,7 +21,7 @@ Daniel Balasubramanian `daniel@isis.vanderbilt.edu` (Section 02)
 We receive large volumes of e-mail, both legitimate and spam.
 There is a possibility that your email to us about this class may get
 lost in this clutter. In order to lessen this possibility, please use
-the piazza.
+piazza.
 
 https://piazza.com/class/ixj2zxpkv9obz
 
