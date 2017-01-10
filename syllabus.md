@@ -53,7 +53,7 @@ https://piazza.com/class/ixj2zxpkv9obz
 | Tuesdays  |  2:45 PM - 3:45 PM | FGH 226      | Abhishek Dubey |
 | Thursdays  | TBD| FGH 226      | Daniel Balasubramanian |
 
-**Note** - Instructors are also available by appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact)
+**Note** - Instructors are also available by appointment at [1025 16th Ave S](http://www.isis.vanderbilt.edu/contact). If you are coming to the ISIS office then you should visit the adminstrative office on the first floor. Tell them that you are there to meet us. They will then direct you to the right location. 
  
 ## Important Links
 
